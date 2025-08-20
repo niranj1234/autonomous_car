@@ -3,7 +3,7 @@
 //AND AUTOMATIC SPEED REDUCTION 
 //FEATURE: FORWARD COLLISION CONTROL AND ADAPTIVE CRUISE CONTROL 
 //WITH ULTRASONIC SENSOR
-//AUTHOR : MAYA KARUTHEDATH
+
 /***************************************************************************/
 ////////////////////////////////////////////////////////
 // ENA IN1 IN2 IN3 IN4 ENB
